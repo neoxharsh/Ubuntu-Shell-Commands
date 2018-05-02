@@ -53,7 +53,7 @@
     cp -a {input_folder_path} {output_folder/path}
 ```
 
-> ##### Moving a file | folder
+> ##### Moving or Renaming a file | folder
 
 ```bash
     mv {input_file} {folder_path}
